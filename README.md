@@ -30,7 +30,7 @@ I'm always eager to learn new technologies and improve my skills. Some areas I'm
 Feel free to connect with me or check out my repositories!
 
 - **GitHub**: [@Durrah-Kamies](https://github.com/Durrah-Kamies)
-- **Email**: [Your email here]
+- **Email**: durrah8741@gmail.com
 
 ## 📊 GitHub Stats
 
